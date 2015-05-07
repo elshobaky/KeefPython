@@ -2,10 +2,12 @@
 website = "KeefCode"
 # indentations rules
 if website == "KeefCode" : # this is the heading
-    # this is the suite
+    # this is the suite all the lines here should have
+    # the same indentation
     print "Welcome!"
     print "you're  in the right place!"
-else : 
+else : # another heading
+  # another suite
   print "I think you should visit KeefCode, I'm sure you'll like it"
 
 # writing two statements in the same line
