@@ -3,8 +3,8 @@ print "Hello, World!"
 def say_hi():
 	output = "Welcome to KeefCode\n"
 	output += "after this tutorial :\n"
-	output += "you'll get python installed on your PC\n"
-	output += "and you'll create your first hell world app!"
+	output += "  1- you'll get python installed on your PC\n"
+	output += "  2- and you'll create your first hell world app!"
 	#print output
 	return output
 
